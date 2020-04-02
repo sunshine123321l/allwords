@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xmlVersion>1.0</xmlVersion>
+  <appVersion>1.0</appVersion>
+  <downloadApp>http://www.baidu.com</downloadApp>
+  <fileAddress>
+    <name>https://raw.githubusercontent.com/sunshine123321l/allwords/master/CET4_A.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/allwords/master/CET4_B.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/allwords/master/CET4_C.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/allwords/master/CET4_D.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/allwords/master/CET4_E.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/allwords/master/CET4_F.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/allwords/master/CET4_G.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/allwords/master/CET4_H.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/allwords/master/CET4_I.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/allwords/master/CET4_JK.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/allwords/master/CET4_L.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/allwords/master/CET4_M.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/allwords/master/CET4_N.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/allwords/master/CET4_O.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/allwords/master/CET4_P.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/allwords/master/CET4_Q.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/allwords/master/CET4_R.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/allwords/master/CET4_S.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/allwords/master/CET4_T.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/allwords/master/CET4_UV.txt</name>
+    <name>https://raw.githubusercontent.com/sunshine123321l/allwords/master/CET4_WXYZ.txt</name>
+  </fileAddress>
+  
+</root>
